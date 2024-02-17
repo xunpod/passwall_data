@@ -14,8 +14,11 @@ epicgames-download1-1251447533.file.myqcloud.com
 # MicroSoft
 Microsoft.com
 Microsoft.com.cn
+microsoft.cn
 microsoftstore.com.cn
 microsoftstore.com
+microsoftonline.com
+azure.cn
 
 # APPLE
 apple.com
@@ -31,8 +34,8 @@ douyucdn2.cn
 # jetbrains
 jetbrains.com
 jetbrains.com.cn
-download-cdn.jetbrains.com
 download.jetbrains.com
+download-cdn.jetbrains.com
 download-cdn.jetbrains.com.cn
 
 # met0
@@ -49,3 +52,6 @@ asus.com
 
 # mozilla
 location.services.mozilla.com
+
+# dnspod
+dnspod.cn
